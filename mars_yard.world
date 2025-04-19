@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    <!-- Include your Mars Yard model -->
+    <include>
+      <uri>model://mars_yard</uri>
+    </include>
+
+    <!-- Other world configurations, such as lighting, ground plane, etc. -->
+  </world>
+</sdf>
